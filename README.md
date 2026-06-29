@@ -58,6 +58,6 @@ Profesional en ciberseguridad enfocado en el área ofensiva como **Junior Penetr
 
 ## 📩 Contacto y Enlaces Profesionales
 
-*   **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
-*   **Correo Electrónico:** tu-correo@dominio.com
-*   **Plataformas:** [HackTheBox](https://hackthebox.com) | [TryHackMe](https://tryhackme.com)
+*   **LinkedIn:** [linkedin.com/in/tu-perfil]
+*   **Correo Electrónico:** hugonavas200418@gmail.com
+*   **Plataformas:** [HackTheBox]https://profile.hackthebox.com/profile/019c4622-2af7-7022-a147-e83306c974da
