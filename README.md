@@ -1,7 +1,7 @@
 # Penetration Tester
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Role-Junior_Penetration_Tester-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Role-_Penetration_Tester-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Offensive_Security_%7C_Red_Teaming-black?style=flat-square" />
   <a href="https://codeberg.org/Hugo_Cesar_Ramos" target="_blank"><img src="https://img.shields.io/badge/Alternative_Mirror-Codeberg-🌍?style=flat-square&logo=codeberg&logoColor=white&color=2185d0" alt="Codeberg Profile" /></a>
 </p>
